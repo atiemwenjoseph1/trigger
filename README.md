@@ -1,0 +1,1 @@
+AWS Certified Developers Associate constantly staying up to date on cloud best practices, tools, and philosophy to automate manual tasks and manage complex environments at scale. Experience with Amazon Web Services (AWS), automation tools, and Infrastructure-as-Code to manage installations, pipelines, and scripting. Here are a couple of projects IÎé}ve worked on
